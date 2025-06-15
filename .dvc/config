@@ -1,4 +1,4 @@
 [core]
     remote = localstorage
 ['remote "localstorage"']
-    url = G:/10 Academy/week_three_project/acis-insurance-risk-analytics/dvc_storage
+    url = G:/10_Academy/dvc_storage
