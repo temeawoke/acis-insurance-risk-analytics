@@ -1,0 +1,39 @@
+@"
+# Virtual environments
+venv/
+.env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# VSCode settings
+.vscode/
+
+# Data files
+data/
+*.csv
+*.tsv
+*.xlsx
+*.json
+*.txt
+# Ignore all text files in data folder
+data/*.txt
+
+# Log files
+*.log
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Model files
+*.h5
+*.pkl
+*.joblib
+*.sav
+"@ > .gitignore
